@@ -1,0 +1,8 @@
+yaelpalti,ilan.vys
+Yael Palti (318190485), Ilan Vysokovsky (207375528)
+EX: 4
+
+FILES:
+VirtualMemory.cpp -- implementation of the VirtualMemory library functions
+Makefile
+README
